@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>北海地方天気</title>
+    <link href="https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="container">
+        <h1>北海地方天気</h1>
+    </div>
+</header>
+
+<main class="container">
+    <div class="region-tabs-container">
+        <div class="region-tabs">
+            <button id="tab-all" onclick="showView('all')">全体</button>
+            <button id="tab-北海道" onclick="showRegion('北海道')">北海道</button>
+            <button id="tab-樺太" onclick="showRegion('樺太')">樺太</button>
+            <button id="tab-千島" onclick="showRegion('千島')">千島</button>
+        </div>
+    </div>
+
+    <div id="sub-tabs-container" class="sub-tabs-container hidden">
+        <div id="sub-tabs" class="sub-tabs"></div>
+    </div>
+
+    <section id="view-all">
+        <div class="map-card">
+            <div class="map-box" id="main-map"></div>
+        </div>
+        <h3 class="section-title">主要都市の概況</h3>
+        <div id="main-city-list"></div>
+    </section>
+
+    <section id="view-region" class="hidden">
+        <div class="map-card">
+            <div class="map-box" id="region-map-box"></div>
+        </div>
+        <div id="region-city-list"></div>
+    </section>
+</main>
+
+<footer>
+    <p>Data provided by Open-Meteo</p>
+    <p>最終更新: <span id="update-time">---</span></p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
