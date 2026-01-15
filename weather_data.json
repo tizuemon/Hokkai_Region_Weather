@@ -1,11 +1,11 @@
 {
   "札幌": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -8.7,
-      "relative_humidity_2m": 78,
-      "weather_code": 2,
+      "temperature_2m": -9.1,
+      "relative_humidity_2m": 79,
+      "weather_code": 3,
       "wind_speed_10m": 5.5
     },
     "hourly": {
@@ -561,9 +561,9 @@
   },
   "倶知安": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -6.0,
+      "temperature_2m": -6.1,
       "relative_humidity_2m": 77,
       "weather_code": 2,
       "wind_speed_10m": 5.8
@@ -1121,7 +1121,7 @@
   },
   "岩見沢": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
       "temperature_2m": -8.6,
       "relative_humidity_2m": 79,
@@ -1681,9 +1681,9 @@
   },
   "滝川": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -6.6,
+      "temperature_2m": -6.7,
       "relative_humidity_2m": 87,
       "weather_code": 3,
       "wind_speed_10m": 3.6
@@ -2241,12 +2241,12 @@
   },
   "函館": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": 0.1,
+      "temperature_2m": 0.2,
       "relative_humidity_2m": 73,
       "weather_code": 2,
-      "wind_speed_10m": 22.2
+      "wind_speed_10m": 23.5
     },
     "hourly": {
       "time": [
@@ -2801,12 +2801,12 @@
   },
   "室蘭": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": 0.0,
+      "temperature_2m": -0.0,
       "relative_humidity_2m": 66,
       "weather_code": 1,
-      "wind_speed_10m": 36.6
+      "wind_speed_10m": 37.6
     },
     "hourly": {
       "time": [
@@ -3361,12 +3361,12 @@
   },
   "江差": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
       "temperature_2m": -0.2,
       "relative_humidity_2m": 74,
       "weather_code": 3,
-      "wind_speed_10m": 31.2
+      "wind_speed_10m": 32.1
     },
     "hourly": {
       "time": [
@@ -3921,12 +3921,12 @@
   },
   "浦河": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
       "temperature_2m": -2.2,
       "relative_humidity_2m": 70,
       "weather_code": 0,
-      "wind_speed_10m": 15.0
+      "wind_speed_10m": 14.7
     },
     "hourly": {
       "time": [
@@ -4481,9 +4481,9 @@
   },
   "旭川": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -7.0,
+      "temperature_2m": -7.1,
       "relative_humidity_2m": 87,
       "weather_code": 2,
       "wind_speed_10m": 3.9
@@ -5041,12 +5041,12 @@
   },
   "稚内": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -2.8,
+      "temperature_2m": -2.9,
       "relative_humidity_2m": 68,
       "weather_code": 3,
-      "wind_speed_10m": 20.8
+      "wind_speed_10m": 20.1
     },
     "hourly": {
       "time": [
@@ -5601,12 +5601,12 @@
   },
   "留萌": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -1.0,
+      "temperature_2m": -1.1,
       "relative_humidity_2m": 65,
       "weather_code": 3,
-      "wind_speed_10m": 25.3
+      "wind_speed_10m": 24.1
     },
     "hourly": {
       "time": [
@@ -6161,10 +6161,10 @@
   },
   "釧路": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -12.8,
-      "relative_humidity_2m": 76,
+      "temperature_2m": -12.6,
+      "relative_humidity_2m": 75,
       "weather_code": 0,
       "wind_speed_10m": 6.2
     },
@@ -6721,12 +6721,12 @@
   },
   "根室": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -1.1,
+      "temperature_2m": -1.0,
       "relative_humidity_2m": 66,
       "weather_code": 0,
-      "wind_speed_10m": 8.9
+      "wind_speed_10m": 9.5
     },
     "hourly": {
       "time": [
@@ -7281,9 +7281,9 @@
   },
   "帯広": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -15.5,
+      "temperature_2m": -15.8,
       "relative_humidity_2m": 84,
       "weather_code": 0,
       "wind_speed_10m": 5.4
@@ -7841,9 +7841,9 @@
   },
   "北見": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -17.4,
+      "temperature_2m": -17.6,
       "relative_humidity_2m": 81,
       "weather_code": 0,
       "wind_speed_10m": 5.3
@@ -8401,9 +8401,9 @@
   },
   "網走": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -16.0,
+      "temperature_2m": -16.2,
       "relative_humidity_2m": 78,
       "weather_code": 1,
       "wind_speed_10m": 5.2
@@ -8961,10 +8961,10 @@
   },
   "豊原": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -12.2,
-      "relative_humidity_2m": 84,
+      "temperature_2m": -12.6,
+      "relative_humidity_2m": 86,
       "weather_code": 1,
       "wind_speed_10m": 2.9
     },
@@ -9521,12 +9521,12 @@
   },
   "真岡": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
       "temperature_2m": -4.0,
       "relative_humidity_2m": 73,
       "weather_code": 2,
-      "wind_speed_10m": 15.1
+      "wind_speed_10m": 14.5
     },
     "hourly": {
       "time": [
@@ -10081,12 +10081,12 @@
   },
   "本斗": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -3.0,
-      "relative_humidity_2m": 85,
+      "temperature_2m": -3.1,
+      "relative_humidity_2m": 83,
       "weather_code": 71,
-      "wind_speed_10m": 11.9
+      "wind_speed_10m": 11.6
     },
     "hourly": {
       "time": [
@@ -10641,12 +10641,12 @@
   },
   "泊居": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -6.3,
+      "temperature_2m": -6.2,
       "relative_humidity_2m": 75,
       "weather_code": 3,
-      "wind_speed_10m": 18.1
+      "wind_speed_10m": 17.1
     },
     "hourly": {
       "time": [
@@ -11201,9 +11201,9 @@
   },
   "落合": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -13.0,
+      "temperature_2m": -13.1,
       "relative_humidity_2m": 80,
       "weather_code": 1,
       "wind_speed_10m": 6.4
@@ -11761,11 +11761,11 @@
   },
   "知取": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
       "temperature_2m": -9.3,
       "relative_humidity_2m": 72,
-      "weather_code": 1,
+      "weather_code": 3,
       "wind_speed_10m": 13.8
     },
     "hourly": {
@@ -12321,11 +12321,11 @@
   },
   "敷香": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
       "temperature_2m": -8.3,
       "relative_humidity_2m": 71,
-      "weather_code": 1,
+      "weather_code": 3,
       "wind_speed_10m": 5.5
     },
     "hourly": {
@@ -12881,11 +12881,11 @@
   },
   "気屯": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
       "temperature_2m": -9.9,
       "relative_humidity_2m": 69,
-      "weather_code": 2,
+      "weather_code": 3,
       "wind_speed_10m": 17.0
     },
     "hourly": {
@@ -13441,9 +13441,9 @@
   },
   "恵須取": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -6.9,
+      "temperature_2m": -6.8,
       "relative_humidity_2m": 86,
       "weather_code": 71,
       "wind_speed_10m": 12.5
@@ -14001,7 +14001,7 @@
   },
   "珍内": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
       "temperature_2m": -6.7,
       "relative_humidity_2m": 82,
@@ -14561,7 +14561,7 @@
   },
   "泊": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
       "temperature_2m": -1.3,
       "relative_humidity_2m": 86,
@@ -15121,12 +15121,12 @@
   },
   "留別": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
       "temperature_2m": -3.5,
-      "relative_humidity_2m": 83,
+      "relative_humidity_2m": 85,
       "weather_code": 85,
-      "wind_speed_10m": 3.7
+      "wind_speed_10m": 2.8
     },
     "hourly": {
       "time": [
@@ -15681,9 +15681,9 @@
   },
   "紗那": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -1.5,
+      "temperature_2m": -1.4,
       "relative_humidity_2m": 66,
       "weather_code": 2,
       "wind_speed_10m": 5.9
@@ -16241,12 +16241,12 @@
   },
   "得撫": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
       "temperature_2m": -6.3,
-      "relative_humidity_2m": 78,
+      "relative_humidity_2m": 79,
       "weather_code": 2,
-      "wind_speed_10m": 5.9
+      "wind_speed_10m": 5.8
     },
     "hourly": {
       "time": [
@@ -16801,12 +16801,12 @@
   },
   "新知": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
       "temperature_2m": -1.9,
-      "relative_humidity_2m": 60,
-      "weather_code": 1,
-      "wind_speed_10m": 18.7
+      "relative_humidity_2m": 61,
+      "weather_code": 0,
+      "wind_speed_10m": 18.6
     },
     "hourly": {
       "time": [
@@ -17361,12 +17361,12 @@
   },
   "松輪": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -0.6,
+      "temperature_2m": -0.5,
       "relative_humidity_2m": 69,
-      "weather_code": 1,
-      "wind_speed_10m": 13.0
+      "weather_code": 85,
+      "wind_speed_10m": 12.1
     },
     "hourly": {
       "time": [
@@ -17921,12 +17921,12 @@
   },
   "阿頼度": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
       "temperature_2m": -9.7,
       "relative_humidity_2m": 64,
       "weather_code": 0,
-      "wind_speed_10m": 14.1
+      "wind_speed_10m": 13.6
     },
     "hourly": {
       "time": [
@@ -18481,12 +18481,12 @@
   },
   "黒石": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -1.1,
+      "temperature_2m": -1.0,
       "relative_humidity_2m": 75,
       "weather_code": 1,
-      "wind_speed_10m": 9.8
+      "wind_speed_10m": 9.5
     },
     "hourly": {
       "time": [
@@ -19041,9 +19041,9 @@
   },
   "柏原": {
     "current": {
-      "time": "2026-01-16T06:45",
+      "time": "2026-01-16T07:15",
       "interval": 900,
-      "temperature_2m": -5.8,
+      "temperature_2m": -5.9,
       "relative_humidity_2m": 75,
       "weather_code": 1,
       "wind_speed_10m": 10.2
