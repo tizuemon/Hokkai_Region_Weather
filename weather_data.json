@@ -6,7 +6,7 @@
       "temperature_2m": -4.4,
       "relative_humidity_2m": 77,
       "weather_code": 2,
-      "wind_speed_10m": 16.8
+      "wind_speed_10m": 16.6
     },
     "hourly": {
       "time": [
@@ -566,7 +566,7 @@
       "temperature_2m": -3.4,
       "relative_humidity_2m": 67,
       "weather_code": 1,
-      "wind_speed_10m": 9.7
+      "wind_speed_10m": 10.0
     },
     "hourly": {
       "time": [
@@ -1126,7 +1126,7 @@
       "temperature_2m": -2.0,
       "relative_humidity_2m": 72,
       "weather_code": 2,
-      "wind_speed_10m": 7.9
+      "wind_speed_10m": 9.9
     },
     "hourly": {
       "time": [
@@ -5046,7 +5046,7 @@
       "temperature_2m": -1.7,
       "relative_humidity_2m": 68,
       "weather_code": 3,
-      "wind_speed_10m": 44.6
+      "wind_speed_10m": 42.3
     },
     "hourly": {
       "time": [
@@ -5606,7 +5606,7 @@
       "temperature_2m": 0.6,
       "relative_humidity_2m": 62,
       "weather_code": 3,
-      "wind_speed_10m": 34.9
+      "wind_speed_10m": 34.3
     },
     "hourly": {
       "time": [
@@ -6166,7 +6166,7 @@
       "temperature_2m": -3.9,
       "relative_humidity_2m": 62,
       "weather_code": 0,
-      "wind_speed_10m": 5.0
+      "wind_speed_10m": 4.7
     },
     "hourly": {
       "time": [
@@ -7286,7 +7286,7 @@
       "temperature_2m": -2.0,
       "relative_humidity_2m": 60,
       "weather_code": 0,
-      "wind_speed_10m": 30.0
+      "wind_speed_10m": 29.8
     },
     "hourly": {
       "time": [
@@ -8406,7 +8406,7 @@
       "temperature_2m": -2.9,
       "relative_humidity_2m": 70,
       "weather_code": 2,
-      "wind_speed_10m": 36.3
+      "wind_speed_10m": 35.6
     },
     "hourly": {
       "time": [
@@ -8966,7 +8966,7 @@
       "temperature_2m": -7.3,
       "relative_humidity_2m": 78,
       "weather_code": 2,
-      "wind_speed_10m": 14.6
+      "wind_speed_10m": 16.8
     },
     "hourly": {
       "time": [
@@ -9526,7 +9526,7 @@
       "temperature_2m": -3.8,
       "relative_humidity_2m": 78,
       "weather_code": 71,
-      "wind_speed_10m": 38.3
+      "wind_speed_10m": 36.2
     },
     "hourly": {
       "time": [
@@ -10086,7 +10086,7 @@
       "temperature_2m": -3.3,
       "relative_humidity_2m": 76,
       "weather_code": 3,
-      "wind_speed_10m": 39.9
+      "wind_speed_10m": 38.1
     },
     "hourly": {
       "time": [
@@ -10646,7 +10646,7 @@
       "temperature_2m": -5.9,
       "relative_humidity_2m": 79,
       "weather_code": 3,
-      "wind_speed_10m": 49.5
+      "wind_speed_10m": 48.5
     },
     "hourly": {
       "time": [
@@ -11206,7 +11206,7 @@
       "temperature_2m": -5.3,
       "relative_humidity_2m": 72,
       "weather_code": 3,
-      "wind_speed_10m": 14.7
+      "wind_speed_10m": 16.1
     },
     "hourly": {
       "time": [
@@ -11766,7 +11766,7 @@
       "temperature_2m": -6.4,
       "relative_humidity_2m": 76,
       "weather_code": 3,
-      "wind_speed_10m": 14.1
+      "wind_speed_10m": 14.2
     },
     "hourly": {
       "time": [
@@ -12326,7 +12326,7 @@
       "temperature_2m": -5.0,
       "relative_humidity_2m": 86,
       "weather_code": 71,
-      "wind_speed_10m": 16.4
+      "wind_speed_10m": 16.7
     },
     "hourly": {
       "time": [
@@ -12886,7 +12886,7 @@
       "temperature_2m": -8.0,
       "relative_humidity_2m": 80,
       "weather_code": 71,
-      "wind_speed_10m": 11.6
+      "wind_speed_10m": 11.4
     },
     "hourly": {
       "time": [
@@ -14006,7 +14006,7 @@
       "temperature_2m": -6.1,
       "relative_humidity_2m": 78,
       "weather_code": 3,
-      "wind_speed_10m": 40.1
+      "wind_speed_10m": 40.8
     },
     "hourly": {
       "time": [
@@ -14566,7 +14566,7 @@
       "temperature_2m": -1.2,
       "relative_humidity_2m": 73,
       "weather_code": 3,
-      "wind_speed_10m": 37.7
+      "wind_speed_10m": 36.9
     },
     "hourly": {
       "time": [
@@ -15126,7 +15126,7 @@
       "temperature_2m": -1.3,
       "relative_humidity_2m": 94,
       "weather_code": 73,
-      "wind_speed_10m": 38.8
+      "wind_speed_10m": 38.4
     },
     "hourly": {
       "time": [
@@ -15686,7 +15686,7 @@
       "temperature_2m": -2.4,
       "relative_humidity_2m": 81,
       "weather_code": 3,
-      "wind_speed_10m": 50.7
+      "wind_speed_10m": 49.5
     },
     "hourly": {
       "time": [
@@ -16246,7 +16246,7 @@
       "temperature_2m": 0.5,
       "relative_humidity_2m": 89,
       "weather_code": 73,
-      "wind_speed_10m": 27.2
+      "wind_speed_10m": 27.1
     },
     "hourly": {
       "time": [
@@ -16806,7 +16806,7 @@
       "temperature_2m": 1.1,
       "relative_humidity_2m": 81,
       "weather_code": 61,
-      "wind_speed_10m": 52.9
+      "wind_speed_10m": 53.3
     },
     "hourly": {
       "time": [
@@ -17366,7 +17366,7 @@
       "temperature_2m": 1.8,
       "relative_humidity_2m": 79,
       "weather_code": 3,
-      "wind_speed_10m": 67.7
+      "wind_speed_10m": 67.9
     },
     "hourly": {
       "time": [
@@ -18486,7 +18486,7 @@
       "temperature_2m": 0.7,
       "relative_humidity_2m": 84,
       "weather_code": 71,
-      "wind_speed_10m": 52.1
+      "wind_speed_10m": 52.5
     },
     "hourly": {
       "time": [
@@ -19046,7 +19046,7 @@
       "temperature_2m": -2.7,
       "relative_humidity_2m": 88,
       "weather_code": 71,
-      "wind_speed_10m": 72.4
+      "wind_speed_10m": 72.5
     },
     "hourly": {
       "time": [
