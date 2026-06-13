@@ -1,12 +1,12 @@
 {
   "札幌": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 14.8,
-      "relative_humidity_2m": 93,
-      "weather_code": 2,
-      "wind_speed_10m": 12.9
+      "temperature_2m": 17.0,
+      "relative_humidity_2m": 84,
+      "weather_code": 3,
+      "wind_speed_10m": 13.1
     },
     "hourly": {
       "time": [
@@ -561,12 +561,12 @@
   },
   "倶知安": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 16.2,
-      "relative_humidity_2m": 90,
-      "weather_code": 3,
-      "wind_speed_10m": 7.9
+      "temperature_2m": 18.3,
+      "relative_humidity_2m": 80,
+      "weather_code": 1,
+      "wind_speed_10m": 8.8
     },
     "hourly": {
       "time": [
@@ -1121,12 +1121,12 @@
   },
   "岩見沢": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 17.3,
-      "relative_humidity_2m": 81,
-      "weather_code": 1,
-      "wind_speed_10m": 15.2
+      "temperature_2m": 18.7,
+      "relative_humidity_2m": 78,
+      "weather_code": 3,
+      "wind_speed_10m": 16.6
     },
     "hourly": {
       "time": [
@@ -1681,12 +1681,12 @@
   },
   "滝川": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 16.5,
-      "relative_humidity_2m": 83,
-      "weather_code": 0,
-      "wind_speed_10m": 4.8
+      "temperature_2m": 19.2,
+      "relative_humidity_2m": 75,
+      "weather_code": 2,
+      "wind_speed_10m": 7.9
     },
     "hourly": {
       "time": [
@@ -2241,12 +2241,12 @@
   },
   "函館": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 15.3,
-      "relative_humidity_2m": 95,
-      "weather_code": 1,
-      "wind_speed_10m": 2.5
+      "temperature_2m": 15.4,
+      "relative_humidity_2m": 97,
+      "weather_code": 2,
+      "wind_speed_10m": 8.2
     },
     "hourly": {
       "time": [
@@ -2423,46 +2423,46 @@
         15.1,
         14.9,
         14.7,
+        14.5,
         14.4,
-        14.1,
-        14.3,
-        14.9,
-        15.4,
+        14.6,
+        15.2,
         15.6,
-        15.3,
+        15.4,
+        15.4,
+        16.1,
+        16.7,
+        16.9,
+        16.9,
+        16.8,
+        16.8,
+        16.3,
         15.7,
-        16.3,
-        16.4,
-        16.3,
-        16.0,
-        15.5,
         15.2,
         14.7,
         14.2,
+        13.9,
         13.7,
-        13.3,
-        13.2,
-        13.2,
-        13.2,
-        13.2,
-        13.0,
-        12.9,
-        12.9,
-        13.2,
-        13.1,
-        13.0,
-        13.0,
+        13.8,
+        13.7,
+        13.5,
         13.4,
-        14.6,
-        15.2,
+        13.4,
+        13.6,
+        13.6,
+        13.7,
+        13.5,
+        13.9,
+        14.7,
+        14.8,
+        15.4,
+        16.0,
+        16.2,
+        16.0,
         15.8,
-        16.1,
+        16.0,
+        16.0,
         15.8,
-        15.5,
-        15.6,
-        16.1,
-        16.3,
-        16.1,
         15.5,
         15.3,
         15.1,
@@ -2595,43 +2595,43 @@
         2,
         3,
         3,
-        3,
-        2,
-        1,
-        1,
-        2,
-        2,
-        0,
-        0,
-        1,
-        0,
-        2,
-        2,
-        2,
-        2,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
         2,
         2,
         1,
         2,
-        0,
         2,
+        0,
+        0,
+        0,
         1,
         0,
         0,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
         1,
         1,
         2,
@@ -2780,8 +2780,8 @@
         3
       ],
       "temperature_2m_max": [
-        16.4,
-        16.3,
+        16.9,
+        16.2,
         15.7,
         22.0,
         26.0,
@@ -2789,8 +2789,8 @@
         20.0
       ],
       "temperature_2m_min": [
-        13.2,
-        12.9,
+        13.7,
+        13.4,
         14.3,
         13.2,
         13.6,
@@ -2801,12 +2801,12 @@
   },
   "室蘭": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 12.8,
+      "temperature_2m": 13.4,
       "relative_humidity_2m": 99,
       "weather_code": 3,
-      "wind_speed_10m": 9.0
+      "wind_speed_10m": 14.1
     },
     "hourly": {
       "time": [
@@ -2983,46 +2983,46 @@
         12.7,
         12.6,
         12.5,
-        12.4,
-        12.4,
-        12.5,
-        12.6,
-        12.9,
-        13.3,
-        13.6,
-        14.0,
-        14.2,
-        14.4,
-        14.5,
-        14.5,
-        14.4,
-        14.2,
-        13.7,
-        13.3,
-        13.1,
+        12.7,
+        12.7,
         12.8,
-        12.5,
-        12.3,
-        12.3,
-        12.2,
-        12.3,
-        12.3,
-        12.2,
-        12.2,
-        12.1,
-        12.2,
-        12.3,
-        12.4,
-        12.5,
         13.0,
         13.2,
-        13.2,
-        13.5,
+        13.4,
         13.8,
-        13.8,
-        14.9,
+        14.2,
+        14.4,
+        14.6,
         14.7,
-        14.3,
+        14.7,
+        14.6,
+        14.4,
+        13.9,
+        13.6,
+        13.4,
+        13.3,
+        13.1,
+        13.0,
+        12.8,
+        12.7,
+        12.6,
+        12.6,
+        12.6,
+        12.5,
+        12.5,
+        12.5,
+        12.6,
+        12.7,
+        12.8,
+        12.9,
+        13.1,
+        13.4,
+        13.6,
+        13.7,
+        13.8,
+        13.9,
+        14.4,
+        14.6,
         14.0,
         13.8,
         13.7,
@@ -3190,7 +3190,7 @@
         3,
         3,
         3,
-        3,
+        1,
         3,
         3,
         3,
@@ -3340,8 +3340,8 @@
         53
       ],
       "temperature_2m_max": [
-        14.5,
-        14.9,
+        14.7,
+        14.6,
         14.2,
         20.4,
         20.5,
@@ -3349,8 +3349,8 @@
         16.4
       ],
       "temperature_2m_min": [
-        12.3,
-        12.1,
+        12.5,
+        12.5,
         13.2,
         13.5,
         13.9,
@@ -3361,12 +3361,12 @@
   },
   "江差": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 17.1,
-      "relative_humidity_2m": 93,
-      "weather_code": 1,
-      "wind_speed_10m": 1.0
+      "temperature_2m": 18.6,
+      "relative_humidity_2m": 88,
+      "weather_code": 0,
+      "wind_speed_10m": 6.5
     },
     "hourly": {
       "time": [
@@ -3543,46 +3543,46 @@
         15.3,
         15.2,
         15.2,
-        15.3,
         15.5,
+        15.8,
+        16.0,
+        16.6,
+        17.7,
+        18.6,
+        19.1,
+        19.8,
+        20.1,
+        20.1,
+        20.0,
+        19.8,
+        19.4,
+        18.9,
+        18.6,
+        18.2,
+        17.7,
+        17.2,
+        16.9,
+        16.4,
         15.7,
-        16.3,
+        15.5,
+        15.3,
+        14.9,
+        14.8,
+        15.7,
+        15.8,
+        16.1,
         17.3,
         18.3,
-        19.0,
-        19.5,
-        19.9,
-        19.7,
-        19.6,
-        19.3,
-        18.9,
         18.1,
-        17.2,
-        16.3,
-        15.8,
-        15.3,
-        14.7,
-        14.6,
-        14.6,
-        15.1,
-        15.5,
-        15.5,
-        14.9,
-        14.0,
-        14.0,
-        15.2,
-        16.7,
-        17.8,
+        18.2,
+        18.3,
         18.4,
-        17.3,
-        17.4,
-        17.9,
+        18.3,
+        18.1,
         17.8,
-        17.3,
-        17.1,
-        17.1,
+        17.4,
+        17.2,
         16.8,
-        16.3,
         16.1,
         16.2,
         16.1,
@@ -3713,46 +3713,46 @@
         0,
         1,
         1,
-        0,
+        1,
         3,
-        3,
-        1,
-        1,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
         2,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
         1,
         1,
-        2,
-        2,
-        2,
-        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
         2,
         2,
         2,
         0,
         1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         2,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        0,
         2,
         2,
         1,
@@ -3892,7 +3892,7 @@
       ],
       "weather_code": [
         3,
-        3,
+        2,
         3,
         3,
         3,
@@ -3900,7 +3900,7 @@
         3
       ],
       "temperature_2m_max": [
-        19.9,
+        20.1,
         18.4,
         17.9,
         22.1,
@@ -3909,8 +3909,8 @@
         21.2
       ],
       "temperature_2m_min": [
-        14.6,
-        14.0,
+        15.2,
+        14.8,
         14.5,
         12.9,
         15.6,
@@ -3921,12 +3921,12 @@
   },
   "浦河": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 12.2,
+      "temperature_2m": 12.7,
       "relative_humidity_2m": 99,
       "weather_code": 3,
-      "wind_speed_10m": 1.8
+      "wind_speed_10m": 3.0
     },
     "hourly": {
       "time": [
@@ -4103,46 +4103,46 @@
         12.5,
         12.3,
         12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.3,
-        12.3,
+        12.5,
+        12.5,
+        12.4,
         12.5,
         12.7,
+        12.7,
         12.9,
-        13.0,
-        13.0,
         13.2,
+        13.2,
+        13.3,
         13.4,
+        13.5,
+        13.6,
+        13.2,
         13.0,
-        13.1,
-        13.0,
+        12.9,
+        12.9,
+        12.8,
+        12.7,
+        12.5,
         12.6,
+        12.6,
+        12.5,
         12.4,
-        12.3,
-        12.4,
-        12.4,
-        12.3,
         12.2,
         12.1,
         12.0,
-        12.1,
         12.2,
-        12.3,
-        12.7,
-        13.5,
-        14.6,
+        12.4,
+        13.1,
+        13.8,
         15.1,
-        14.9,
-        15.3,
-        16.1,
-        15.7,
+        15.6,
+        16.2,
         15.8,
-        14.5,
-        14.6,
-        15.0,
+        15.9,
+        15.6,
+        14.8,
+        14.2,
+        13.9,
         14.4,
         14.4,
         14.4,
@@ -4308,7 +4308,7 @@
         3,
         3,
         3,
-        3,
+        2,
         3,
         3,
         3,
@@ -4460,8 +4460,8 @@
         3
       ],
       "temperature_2m_max": [
-        13.4,
-        16.1,
+        13.6,
+        16.2,
         13.9,
         18.4,
         20.7,
@@ -4481,12 +4481,12 @@
   },
   "旭川": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 14.9,
-      "relative_humidity_2m": 92,
-      "weather_code": 3,
-      "wind_speed_10m": 2.6
+      "temperature_2m": 18.0,
+      "relative_humidity_2m": 83,
+      "weather_code": 2,
+      "wind_speed_10m": 1.5
     },
     "hourly": {
       "time": [
@@ -5041,12 +5041,12 @@
   },
   "稚内": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 16.1,
-      "relative_humidity_2m": 91,
+      "temperature_2m": 16.6,
+      "relative_humidity_2m": 88,
       "weather_code": 3,
-      "wind_speed_10m": 14.1
+      "wind_speed_10m": 15.3
     },
     "hourly": {
       "time": [
@@ -5601,12 +5601,12 @@
   },
   "留萌": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 17.1,
-      "relative_humidity_2m": 94,
-      "weather_code": 0,
-      "wind_speed_10m": 11.4
+      "temperature_2m": 19.4,
+      "relative_humidity_2m": 87,
+      "weather_code": 3,
+      "wind_speed_10m": 8.7
     },
     "hourly": {
       "time": [
@@ -6161,12 +6161,12 @@
   },
   "釧路": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 12.1,
-      "relative_humidity_2m": 99,
+      "temperature_2m": 13.1,
+      "relative_humidity_2m": 95,
       "weather_code": 3,
-      "wind_speed_10m": 2.1
+      "wind_speed_10m": 4.0
     },
     "hourly": {
       "time": [
@@ -6721,12 +6721,12 @@
   },
   "根室": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 12.2,
-      "relative_humidity_2m": 99,
+      "temperature_2m": 13.1,
+      "relative_humidity_2m": 95,
       "weather_code": 3,
-      "wind_speed_10m": 9.7
+      "wind_speed_10m": 13.3
     },
     "hourly": {
       "time": [
@@ -7281,12 +7281,12 @@
   },
   "帯広": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 14.0,
-      "relative_humidity_2m": 96,
+      "temperature_2m": 15.7,
+      "relative_humidity_2m": 86,
       "weather_code": 3,
-      "wind_speed_10m": 0.5
+      "wind_speed_10m": 0.9
     },
     "hourly": {
       "time": [
@@ -7841,12 +7841,12 @@
   },
   "北見": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 16.6,
-      "relative_humidity_2m": 87,
-      "weather_code": 1,
-      "wind_speed_10m": 3.6
+      "temperature_2m": 19.1,
+      "relative_humidity_2m": 79,
+      "weather_code": 0,
+      "wind_speed_10m": 2.7
     },
     "hourly": {
       "time": [
@@ -8401,12 +8401,12 @@
   },
   "網走": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 16.5,
-      "relative_humidity_2m": 88,
-      "weather_code": 2,
-      "wind_speed_10m": 7.1
+      "temperature_2m": 18.5,
+      "relative_humidity_2m": 83,
+      "weather_code": 1,
+      "wind_speed_10m": 5.8
     },
     "hourly": {
       "time": [
@@ -8961,12 +8961,12 @@
   },
   "豊原": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 13.0,
-      "relative_humidity_2m": 100,
-      "weather_code": 3,
-      "wind_speed_10m": 10.2
+      "temperature_2m": 13.5,
+      "relative_humidity_2m": 99,
+      "weather_code": 51,
+      "wind_speed_10m": 11.2
     },
     "hourly": {
       "time": [
@@ -9521,12 +9521,12 @@
   },
   "真岡": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 13.0,
-      "relative_humidity_2m": 97,
+      "temperature_2m": 13.9,
+      "relative_humidity_2m": 92,
       "weather_code": 51,
-      "wind_speed_10m": 10.0
+      "wind_speed_10m": 11.6
     },
     "hourly": {
       "time": [
@@ -10081,12 +10081,12 @@
   },
   "本斗": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 12.8,
-      "relative_humidity_2m": 97,
-      "weather_code": 53,
-      "wind_speed_10m": 12.9
+      "temperature_2m": 13.2,
+      "relative_humidity_2m": 95,
+      "weather_code": 3,
+      "wind_speed_10m": 15.5
     },
     "hourly": {
       "time": [
@@ -10641,12 +10641,12 @@
   },
   "泊居": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 11.9,
-      "relative_humidity_2m": 97,
+      "temperature_2m": 12.3,
+      "relative_humidity_2m": 96,
       "weather_code": 3,
-      "wind_speed_10m": 6.4
+      "wind_speed_10m": 7.2
     },
     "hourly": {
       "time": [
@@ -11201,12 +11201,12 @@
   },
   "落合": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 13.4,
-      "relative_humidity_2m": 99,
-      "weather_code": 51,
-      "wind_speed_10m": 1.5
+      "temperature_2m": 14.7,
+      "relative_humidity_2m": 92,
+      "weather_code": 53,
+      "wind_speed_10m": 2.8
     },
     "hourly": {
       "time": [
@@ -11761,12 +11761,12 @@
   },
   "知取": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 9.6,
-      "relative_humidity_2m": 99,
-      "weather_code": 53,
-      "wind_speed_10m": 8.7
+      "temperature_2m": 9.1,
+      "relative_humidity_2m": 100,
+      "weather_code": 51,
+      "wind_speed_10m": 8.3
     },
     "hourly": {
       "time": [
@@ -12321,12 +12321,12 @@
   },
   "敷香": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 9.0,
-      "relative_humidity_2m": 94,
+      "temperature_2m": 9.3,
+      "relative_humidity_2m": 90,
       "weather_code": 3,
-      "wind_speed_10m": 8.2
+      "wind_speed_10m": 9.1
     },
     "hourly": {
       "time": [
@@ -12881,12 +12881,12 @@
   },
   "気屯": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 9.8,
-      "relative_humidity_2m": 96,
+      "temperature_2m": 10.1,
+      "relative_humidity_2m": 94,
       "weather_code": 3,
-      "wind_speed_10m": 9.6
+      "wind_speed_10m": 9.8
     },
     "hourly": {
       "time": [
@@ -13441,12 +13441,12 @@
   },
   "恵須取": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 11.7,
+      "temperature_2m": 11.9,
       "relative_humidity_2m": 93,
       "weather_code": 3,
-      "wind_speed_10m": 3.8
+      "wind_speed_10m": 5.1
     },
     "hourly": {
       "time": [
@@ -14001,12 +14001,12 @@
   },
   "珍内": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 12.2,
-      "relative_humidity_2m": 98,
+      "temperature_2m": 13.2,
+      "relative_humidity_2m": 94,
       "weather_code": 3,
-      "wind_speed_10m": 7.9
+      "wind_speed_10m": 7.3
     },
     "hourly": {
       "time": [
@@ -14561,12 +14561,12 @@
   },
   "泊": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 12.9,
-      "relative_humidity_2m": 97,
+      "temperature_2m": 13.5,
+      "relative_humidity_2m": 96,
       "weather_code": 3,
-      "wind_speed_10m": 11.7
+      "wind_speed_10m": 11.6
     },
     "hourly": {
       "time": [
@@ -15121,12 +15121,12 @@
   },
   "留別": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 12.4,
-      "relative_humidity_2m": 95,
-      "weather_code": 3,
-      "wind_speed_10m": 12.1
+      "temperature_2m": 14.0,
+      "relative_humidity_2m": 87,
+      "weather_code": 2,
+      "wind_speed_10m": 12.0
     },
     "hourly": {
       "time": [
@@ -15681,12 +15681,12 @@
   },
   "紗那": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 13.1,
-      "relative_humidity_2m": 94,
+      "temperature_2m": 13.8,
+      "relative_humidity_2m": 92,
       "weather_code": 3,
-      "wind_speed_10m": 10.3
+      "wind_speed_10m": 11.2
     },
     "hourly": {
       "time": [
@@ -16241,12 +16241,12 @@
   },
   "得撫": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 12.6,
-      "relative_humidity_2m": 96,
+      "temperature_2m": 15.5,
+      "relative_humidity_2m": 85,
       "weather_code": 3,
-      "wind_speed_10m": 5.2
+      "wind_speed_10m": 6.8
     },
     "hourly": {
       "time": [
@@ -16801,12 +16801,12 @@
   },
   "新知": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 4.9,
-      "relative_humidity_2m": 99,
+      "temperature_2m": 5.1,
+      "relative_humidity_2m": 100,
       "weather_code": 3,
-      "wind_speed_10m": 22.6
+      "wind_speed_10m": 21.3
     },
     "hourly": {
       "time": [
@@ -17361,12 +17361,12 @@
   },
   "松輪": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 5.1,
+      "temperature_2m": 5.2,
       "relative_humidity_2m": 99,
       "weather_code": 3,
-      "wind_speed_10m": 14.8
+      "wind_speed_10m": 16.6
     },
     "hourly": {
       "time": [
@@ -17921,12 +17921,12 @@
   },
   "阿頼度": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 1.3,
-      "relative_humidity_2m": 86,
-      "weather_code": 1,
-      "wind_speed_10m": 5.4
+      "temperature_2m": 2.1,
+      "relative_humidity_2m": 82,
+      "weather_code": 3,
+      "wind_speed_10m": 5.5
     },
     "hourly": {
       "time": [
@@ -18481,12 +18481,12 @@
   },
   "黒石": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 6.8,
-      "relative_humidity_2m": 93,
+      "temperature_2m": 7.2,
+      "relative_humidity_2m": 89,
       "weather_code": 3,
-      "wind_speed_10m": 7.6
+      "wind_speed_10m": 8.9
     },
     "hourly": {
       "time": [
@@ -19041,12 +19041,12 @@
   },
   "柏原": {
     "current": {
-      "time": "2026-06-14T06:45",
+      "time": "2026-06-14T08:00",
       "interval": 900,
-      "temperature_2m": 7.0,
-      "relative_humidity_2m": 85,
+      "temperature_2m": 7.6,
+      "relative_humidity_2m": 86,
       "weather_code": 3,
-      "wind_speed_10m": 16.0
+      "wind_speed_10m": 18.4
     },
     "hourly": {
       "time": [
